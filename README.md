@@ -1,1 +1,2 @@
-# Web-Technologies
+# Web-Technology
+Lab Handout
